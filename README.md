@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @personalitaet: Backend, APIs, and ML Developer | Pentester
+# 👋 Hi, I’m @personalitaet: 19 year-old Backend, APIs, and ML Developer | Pentester
 
-Welcome to my GitHub profile! I'm passionate about backend development, AI, LLMs, cryptography, and more. Currently honing my skills in Python and Golang to evolve into a proficient full-stack developer.
+Welcome to my GitHub ! I'm a passionate about backend development, AI, LLMs, cryptography, and more. Currently honing my skills in Python, Go and Javascript to evolve into a proficient full-stack developer.
 
 ## 👀 Interests
 - AI and Machine Learning
