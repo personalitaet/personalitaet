@@ -5,9 +5,10 @@ Welcome to my GitHub profile! I'm passionate about backend development, AI, LLMs
 ## 👀 Interests
 - AI and Machine Learning
 - Large Language Models (LLMs)
-- Cryptography
-- Backend Development
+- Cryptography and Password Hardening
+- API Engineering.
 - Pentesting
+- Offensive Security | Pentesting & automation
 
 ## 🌱 Learning
 I'm on a journey to become a better backend developer, exploring the realms of Python and Golang.
@@ -16,7 +17,10 @@ I'm on a journey to become a better backend developer, exploring the realms of P
 Experienced in backend handling, I believe that backend coding is an art that not many truly understand. Always looking for ways to enhance and optimize backend processes.
 
 ## 💞️ Collaboration
-I'm open to collaborating on any project that involves improving its backend architecture. Let's create efficient and scalable solutions together!
+I'm open to collaborating on any project that involves improving its backend architecture, such as:
+* Backend-heavy tools (bots, dashboards, APIs, scrapers)
+* Any project that involves backend, security, or automation
+  Let's create efficient and scalable solutions together!
 
 ## 📫 Connect with Me
 - Discord: @personalitaet
