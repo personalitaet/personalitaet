@@ -14,7 +14,7 @@ Welcome to my GitHub ! I'm a passionate about backend development, AI, LLMs, cry
 I'm on a journey to become a better backend developer, exploring the realms of Python and Golang.
 
 ## 💼 Experience
-Experienced in backend handling, I believe that backend coding is an art that not many truly understand. Always looking for ways to enhance and optimize backend processes.
+Experienced in backend handling, need to sharpen up my front end skills~~ . Always looking for ways to enhance and optimize backend processes.
 
 ## 💞️ Collaboration
 I'm open to collaborating on any project that involves improving its backend architecture, such as:
